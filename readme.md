@@ -6,14 +6,9 @@
 
 ``` bash
 # install dependencies
-npm install
+npm install reset-cli -g
 
-# serve with hot reload at localhost:8080
-npm run dev
+# init vue project
+rs init simple [prjectName]
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
