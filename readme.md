@@ -9,6 +9,6 @@
 npm install reset-cli -g
 
 # init vue project
-rs init simple [prjectName]
+rs1 init simple [prjectName]
 
 ```
